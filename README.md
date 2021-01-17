@@ -8,4 +8,4 @@ need :<br>
 sudo apt-get curl
 ```
 ## Screenshot
-<img src="https://github.com/rouze-d/realsub/blob/master/screenshot/1.jpg" width="500" height="700"/>
+<img src="https://github.com/rouze-d/realsub/blob/master/screenshot/1.jpg" width="700" height=800"/>
