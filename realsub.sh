@@ -14,7 +14,7 @@ echo -e "${RED}
    ┏━┓   ┏━╸   ┏━┓   ╻     ┏━┓   ╻ ╻   ┏┓
    ┣┳┛   ┣╸    ┣━┫   ┃     ┗━┓   ┃ ┃   ┣┻┓
    ╹┗╸   ┗━╸   ╹ ╹   ┗━╸   ┗━┛   ┗━┛   ┗━┛"
-echo -e "                               by-$BOLD rouze-d$STAND"
+echo -e "${STAND}                               by-$BOLD rouze-d$STAND"
 echo -e "$BLUE Find subdomain is Real or just a Redirect$STAND"
 echo -e " Hope you found something. Have a nice day."
 
