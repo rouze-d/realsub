@@ -10,10 +10,10 @@ BOLD=$(tput bold)
 
 
 
-echo "
+echo -e "${RED}
    ┏━┓   ┏━╸   ┏━┓   ╻     ┏━┓   ╻ ╻   ┏┓
    ┣┳┛   ┣╸    ┣━┫   ┃     ┗━┓   ┃ ┃   ┣┻┓
-   ╹┗╸   ┗━╸   ╹ ╹   ┗━╸   ┗━┛   ┗━┛   ┗━┛" | lolcat -p 0.7
+   ╹┗╸   ┗━╸   ╹ ╹   ┗━╸   ┗━┛   ┗━┛   ┗━┛"
 echo -e "                               by-$BOLD rouze-d$STAND"
 echo -e "$BLUE Find subdomain is Real or just a Redirect$STAND"
 echo -e " Hope you found something. Have a nice day."
