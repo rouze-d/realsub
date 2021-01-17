@@ -5,8 +5,7 @@ Like a Facebook, so many subdomain is UP, but it's just REDIRECT you to www. or 
 
 need :<br>
 ```
-sudo gem install lolcat
-sudo apt-get install nmap
+sudo apt-get curl
 ```
 ## Screenshot
 <img src="https://github.com/rouze-d/realsub/blob/master/screenshot/1.jpg" width="700" height="350"/>
