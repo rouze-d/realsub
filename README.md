@@ -9,4 +9,3 @@ sudo apt-get curl
 ```
 ## Screenshot
 <img src="https://github.com/rouze-d/realsub/blob/master/screenshot/1.jpg" width="700" height="350"/>
-<img src="https://github.com/rouze-d/realsub/blob/master/screenshot/2.jpg" width="700" height="350"/>
